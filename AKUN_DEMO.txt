@@ -1,0 +1,48 @@
+================================================================================
+           DAFTAR AKUN DEMO RESMI - IRIS ID BIOMETRIC ATTENDANCE
+================================================================================
+
+1. ROLE: HR ADMINISTRATOR
+   - Email       : admin@company.com
+   - Kata Sandi  : password123
+   - Hak Akses   : Akses penuh ke seluruh menu:
+                   * Dashboard Monitoring Eksekutif Perusahaan
+                   * Manajemen Data Karyawan & Registrasi Biometrik Wajah
+                   * Pengaturan Titik Geofence Lokasi Kantor & Jam Shift Kerja
+   - URL Masuk   : http://localhost:3000/login
+   - URL Langsung: http://localhost:3000/admin
+
+--------------------------------------------------------------------------------
+
+2. ROLE: MANAGER / SUPERVISOR
+   - Email       : manager.it@company.com
+   - Kata Sandi  : password123
+   - Departemen  : IT & Engineering
+   - Hak Akses   : 
+                   * Monitoring Kehadiran Anggota Tim Departemen IT
+                   * Memantau Siapa Saja Tim yang Hadir, Terlambat, / Belum Datang
+                   * Presensi Mandiri
+   - URL Masuk   : http://localhost:3000/login
+   - URL Langsung: http://localhost:3000/manager
+
+--------------------------------------------------------------------------------
+
+3. ROLE: KARYAWAN (EMPLOYEE)
+   - Email       : budi@company.com
+   - NIK         : EMP001 (Bisa login menggunakan NIK atau Email)
+   - Kata Sandi  : password123
+   - Nama        : Budi Santoso
+   - Departemen  : Engineering
+   - Hak Akses   :
+                   * Dashboard Kehadiran Pribadi
+                   * Riwayat Presensi Sendiri (Jam Masuk, Pulang, dan Foto Bukti)
+                   * Melakukan Absensi Wajah Mandiri di Kamera
+   - URL Masuk   : http://localhost:3000/login
+   - URL Langsung: http://localhost:3000/dashboard
+
+================================================================================
+Catatan:
+- Semua kata sandi bawaan adalah: password123
+- Anda dapat menyalin (copy-paste) email dan kata sandi di atas langsung ke
+  formulir login web.
+================================================================================
